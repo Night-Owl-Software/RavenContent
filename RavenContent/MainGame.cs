@@ -1,4 +1,14 @@
-﻿using Microsoft.Xna.Framework;
+﻿/*
+ *  Main Game Loop - Raven's Crest Shared Content
+ *  =============================================
+ *  
+ *  Handles Initialization, Update, and Draw functions
+ *  of the primary game loop. Platform-Specific clients
+ *  should call to run this game loop to run the game.
+ * 
+ */
+
+using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 
